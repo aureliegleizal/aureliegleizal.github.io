@@ -1,11 +1,11 @@
-<?php
+aurelie.gleizal@hotmail.fr<?php
 /*
 Credits: Bit Repository
 URL: http://www.bitrepository.com/
 */
 
 /* Setup your email address to receive emails */
-define( 'WEBMASTER_EMAIL', 'username@emailprovider.com' );
+define( 'WEBMASTER_EMAIL', 'aurelie.gleizal@hotmail.fr' );
 define( 'EMAIL_SUBJECT', 'New message received' );
 
 
